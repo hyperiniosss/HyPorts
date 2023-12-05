@@ -13,3 +13,5 @@ ls
 python3 HyPorts.py
 
 Hedef IP : (dilediğiniz veb sitesinin ip sini girin ve zaafiyet açığı olan portları öğrenin...)
+
+Writing By Hyperinios...
